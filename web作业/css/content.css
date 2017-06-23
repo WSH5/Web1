@@ -1,0 +1,43 @@
+.content_{
+	width: 700px;
+	float: left;
+}
+.crumbs{
+	height: 40pz;
+	line-height: 40px;
+	padding-left: 43px;
+}
+.big_title{
+	height: 45px;
+	font-size: 16px;
+	font-weight: bold;
+	line-height: 45px;
+	text-align: center;
+	border-bottom: 1px solid #c9baa5;
+}
+.content_middle{
+	padding: 10px;
+	font: 14px;
+	border-bottom: 1px solid #c9baa5;
+}
+.content_middle p{
+	text-indent: 2em;
+	margin-top: 5px;
+	text-align: left;
+	line-height: 28px;
+}
+.content_middle div{
+	margin: 20px;
+	text-align: center;
+}
+.content_bottom{
+	height: 40px;
+	line-height: 40px;
+	margin-top: 10px;
+	font: 13px;
+}
+.content_bottom a{
+	margin-right: 80px;
+	color: #844004;
+	font: 13px;
+}

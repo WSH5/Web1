@@ -1,0 +1,31 @@
+.content_left{
+	width: 250px;
+	float: left;
+}
+.crumbs{
+	height: 40pz;
+	line-height: 40px;
+	padding-left: 43px;
+}
+.content_left_top{
+	text-align: center;
+	border: 1px solid #c9baa5;
+	margin: 10px;
+}
+.content_left_top ul{
+	list-style: none;
+	margin: 10px 55px;
+	margin-bottom: 30px;
+}
+.content_left_top ul li a{
+	line-height: 2.5em;
+	font-weight: bold;
+}
+.content_left_top ul li a:hover{
+	font-size: 1.1em;
+	color: #A52A2A;
+}
+.content_right ul li{
+	text-align: center;
+	margin:5px;
+}
